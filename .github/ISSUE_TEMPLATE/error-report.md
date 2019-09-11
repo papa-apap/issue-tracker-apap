@@ -3,12 +3,12 @@ name: Error report
 about: Create a report to solve your problem together
 title: "[Error] "
 labels: error
-assignees: ''
+assignees: papa-apap
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Describe the error**
+A clear and concise description of what the error is.
 
 **To Reproduce**
 Steps to reproduce the behavior:
